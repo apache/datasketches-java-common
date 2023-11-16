@@ -17,7 +17,7 @@
  * under the License.
  */
 
-package main.java.org.apache.datasketches.test;
+package org.apache.datasketches.test;
 
 import java.io.File;
 import java.io.FileOutputStream;
