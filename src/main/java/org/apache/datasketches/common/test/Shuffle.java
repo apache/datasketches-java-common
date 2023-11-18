@@ -17,7 +17,7 @@
  * under the License.
  */
 
-package org.apache.datasketches.test;
+package org.apache.datasketches.common.test;
 
 import java.util.Random;
 
